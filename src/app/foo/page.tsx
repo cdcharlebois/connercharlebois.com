@@ -1,6 +1,7 @@
 "use client"
 import { useState } from "react"
 import { PostTitle } from "../_components/post-title";
+import { Button } from "@mui/material";
 
 export default function Foo() {
 
@@ -9,8 +10,8 @@ export default function Foo() {
     return <div>
         <PostTitle>Hello World</PostTitle>
         <p>the current value is {number}</p>
-        <button className="btn btn-blue" onClick={() => {
+        <Button variant="contained" onClick={() => {
             setNumber(number + 1);
-        }}>Add 1</button>
+        }}>Click</Button>
     </div>
 }
