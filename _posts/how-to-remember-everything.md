@@ -1,6 +1,6 @@
 ---
 title: "How to Remember Everything"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "The purpose of taking notes is to be able to recall information when you need it. It’s like putting a little tidbit of knowledge in a bank, so you can come back for it later. I’ve always found that physically writing on physical paper with a physical pen and has made this easier for me."
 coverImage: "/assets/blog/how-to-remember-everything/journalling.jpg"
 date: "2024-08-20"
 author:
@@ -16,7 +16,7 @@ But there’s one digital trend that never caught on for me: note-taking apps. I
 
 The purpose of taking notes is to be able to recall information when you need it. It’s like putting a little tidbit of knowledge in a bank, so you can come back for it later. I’ve always found that physically writing on physical paper with a physical pen and has made this easier for me. It might not be for you, but keep this purpose in mind when evaluating different note taking strategies.
 
-The purpose of taking notes is to be able to recall information when you need it
+> The purpose of taking notes is to be able to recall information when you need it
 
 The tradeoff I’ve always found with physical vs digital note-taking is that digital note-taking makes it really easy to ctrl-f and find a particular word or phrase (or tag if you fancy) but it’s really bad at giving you the context of what was happening around that point. What else were you thinking about? Did you just have a meeting about a related topic? How can you keep track of the path your brain took to get to its current location?
 
@@ -29,7 +29,7 @@ Like any other situation as a leader, it’s important to have “strong opinion
 
 Your notes will never be perfectly organized. Say it with me: Your notes will never be perfectly organized. People often try to optimize note taking for one of two things: 1) to make taking notes quick and easy; or 2) to make finding notes quick and easy. Both of these strategies miss the mark and forgot the objective that we talked about before: The purpose of taking notes is to be able to recall information when you need it. Optimizing for note writing often yields a messy mix of all sorts of interrelated notes, sometimes tied together by tags or some other arbitrary grouping tool. This makes finding what you’re looking for an exercise of “what would I have tagged it?” If finding your note requires manually getting your brain back to the place where it was when you took the note, then you’re just relying on memorization, which is the opposite of note-taking in the first place.
 
-Your notes will never be perfectly organized
+> Your notes will never be perfectly organized
 
 On the other hand, optimizing for note finding can be equally fruitless. To end up with a beautifully organized hierarchy (or graph, if you’re into that) of notes requires so much forethought in terms of “where should this note go?” thinking that it often causes you to forget the important thing you wanted to note down anyway. “Should this note about implementing a custom sign-in for a customer go in the customer folder? Or the authentication one? What if I made a new folder for Implementations?” blah blah blah and before you know it, your brain has scuttled on to something new and the important nugget you wanted to jot down has trundled away.
 
