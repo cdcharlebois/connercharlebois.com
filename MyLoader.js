@@ -1,3 +1,3 @@
-export default function Loader({src}) {
+export default function Loader({src, width, quality}) {
     return `${src}`
 }

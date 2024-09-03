@@ -47,9 +47,13 @@ The most structured part of my process are the Monthly and Weekly views that I c
 
 The left page of the monthly view has a line per day highlighting the events/milestones for that month. The right page contains monthly goals/objectives at the top, and the bottom third is reserved for the next three months, so I can get a good view of the next quarter at a glance.
 
+[![](/assets/blog/how-to-remember-everything/remember1.webp)](/assets/blog/how-to-remember-everything/remember1.webp)
+
 Each weekly overview is a two page spread as well. The left page has a 2 x 3 grid with a cell for each workday, plus one for the weekend (if you have enough going on in your life that you need two cells to plan for a weekend, more power to you!) Each cell has the date and day of week, and then I leave the rest of the cell to function as a daily task list.
 
 The right page of the weekly overview is intentionally left blank as a scratchpad for other notes/thoughts/ideas that come up while not in meetings, or to track longer term items from week to week. This can be trip planning, paperwork, dog training schedules, etc. I think it’s important to always have a clear place to jot down random thoughts that come into your head without having to think too much about where they go. Having these scratchpad pages connected to each weekly view gives me at least some form of chronological connection when I come back to them later. (I can see the weekly tasks/events that were on my mind at the time, which can help give context to my otherwise random doodles)
+
+[![](/assets/blog/how-to-remember-everything/remember2.webp)](/assets/blog/how-to-remember-everything/remember2.webp)
 
 c. Tasks, Events, and Notes
 
@@ -78,4 +82,3 @@ In Sum
 There’s no silver bullet to taking better notes. There’s just what works for you. The common thread that I’ve notice among all successful note takers is that they seem to write down everything, all the time. They have a system that lets them both: a) get ideas down quickly, and b) find what they’re looking for quickly. They regularly review and prune their notes to make sure that their system is performing well.
 
 I hope that you can make some use from these observations. The only wrong way to take notes is to not take notes, so start writing, and go from there.
-
